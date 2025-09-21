@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>සිදුවීම් - කර්මිකාරයාගේ වත්තේ ආරක්ෂක පද්ධතිය</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .main-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(45deg, #17a2b8, #6f42c1);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        
+        .events-section {
+            padding: 30px;
+        }
+        
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+        
+        .event-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border-left: 5px solid #17a2b8;
+            transition: all 0.3s ease;
+        }
+        
+        .event-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        
+        .event-card.enter {
+            border-left-color: #dc3545;
+        }
+        
+        .event-card.exit {
+            border-left-color: #28a745;
+        }
+        
+        .event-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        
+        .event-type {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .event-type.enter {
+            color: #dc3545;
+        }
+        
+        .event-type.exit {
+            color: #28a745;
+        }
+        
+        .event-time {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .event-description {
+            color: #555;
+            margin: 0;
+        }
+        
+        .no-events {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+        }
+        
+        .no-events i {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            color: #ccc;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #17a2b8;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 2s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .refresh-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            z-index: 1000;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            font-size: 1.5rem;
+        }
+        
+        .stats-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stats-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #17a2b8;
+        }
+        
+        .stats-label {
+            color: #666;
+            font-size: 1.1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="header">
+            <a href="/" class="back-button btn btn-light">
+                <i class="fas fa-arrow-left"></i> ආපසු
+            </a>
+            <h1><i class="fas fa-history"></i> සිදුවීම්</h1>
+            <p>සියලුම අනාවරණ සිදුවීම් මෙහි ලියාපදිංචි වේ</p>
+        </div>
+        
+        <div class="events-section">
+            <div class="row mb-4">
+                <div class="col-md-4">
+                    <div class="stats-card">
+                        <div class="stats-number" id="totalEvents">-</div>
+                        <div class="stats-label">මුළු සිදුවීම්</div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="stats-card">
+                        <div class="stats-number" id="enterEvents">-</div>
+                        <div class="stats-label">ඇතුළු වීම්</div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="stats-card">
+                        <div class="stats-number" id="exitEvents">-</div>
+                        <div class="stats-label">පිටවීම්</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="eventsContainer">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>සිදුවීම් පූරණය කරමින්...</p>
+                </div>
+            </div>
+        </div>
+        
+        <button class="btn btn-primary refresh-btn" onclick="loadEvents()" title="නැවුම් කරන්න">
+            <i class="fas fa-sync-alt"></i>
+        </button>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function loadEvents() {
+            const container = document.getElementById('eventsContainer');
+            container.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>සිදුවීම් පූරණය කරමින්...</p>
+                </div>
+            `;
+            
+            fetch('/api/events')
+                .then(response => response.json())
+                .then(events => {
+                    displayEvents(events);
+                    updateStats(events);
+                })
+                .catch(error => {
+                    console.error('Error loading events:', error);
+                    container.innerHTML = `
+                        <div class="no-events">
+                            <i class="fas fa-exclamation-triangle"></i>
+                            <h4>සිදුවීම් පූරණය කිරීමේ දෝෂය</h4>
+                            <p>දත්ත ලබා ගැනීමේදී දෝෂයක් සිදුවිය</p>
+                        </div>
+                    `;
+                });
+        }
+        
+        function displayEvents(events) {
+            const container = document.getElementById('eventsContainer');
+            
+            if (events.length === 0) {
+                container.innerHTML = `
+                    <div class="no-events">
+                        <i class="fas fa-calendar-times"></i>
+                        <h4>සිදුවීම් නොමැත</h4>
+                        <p>තවම සිදුවීම් ලියාපදිංචි වී නැත</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            // Sort events by timestamp (newest first)
+            events.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+            
+            let html = '';
+            events.forEach(event => {
+                const eventClass = event.event.toLowerCase();
+                const icon = eventClass === 'enter' ? 'fas fa-arrow-right' : 'fas fa-arrow-left';
+                const typeText = eventClass === 'enter' ? 'ඇතුළු වීම' : 'පිටවීම';
+                
+                html += `
+                    <div class="event-card ${eventClass}">
+                        <div class="event-header">
+                            <div class="event-type ${eventClass}">
+                                <i class="${icon}"></i> ${typeText}
+                            </div>
+                            <div class="event-time">${formatDateTime(event.timestamp)}</div>
+                        </div>
+                        <p class="event-description">${event.description_sinhala}</p>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+        
+        function updateStats(events) {
+            const totalEvents = events.length;
+            const enterEvents = events.filter(e => e.event.toLowerCase() === 'enter').length;
+            const exitEvents = events.filter(e => e.event.toLowerCase() === 'exit').length;
+            
+            document.getElementById('totalEvents').textContent = totalEvents;
+            document.getElementById('enterEvents').textContent = enterEvents;
+            document.getElementById('exitEvents').textContent = exitEvents;
+        }
+        
+        function formatDateTime(timestamp) {
+            const date = new Date(timestamp);
+            return date.toLocaleString('si-LK', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit'
+            });
+        }
+        
+        // Load events on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadEvents();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>උදව් - කර්මිකාරයාගේ වත්තේ ආරක්ෂක පද්ධතිය</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #667eea 100%);
+            min-height: 100vh;
+            padding: 20px;
+            margin: 0;
+            overflow-x: hidden;
+        }
+        
+        .background-pattern {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(120, 119, 198, 0.2) 0%, transparent 50%);
+            z-index: -1;
+        }
+        
+        .main-container {
+            background: rgba(255, 255, 255, 0.98);
+            border-radius: 25px;
+            box-shadow: 0 25px 50px rgba(0,0,0,0.15);
+            overflow: hidden;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #17a2b8 0%, #20c997 50%, #28a745 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+            animation: shimmer 3s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
+        }
+        
+        .header h1 {
+            margin: 0;
+            font-size: 2.8rem;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            position: relative;
+            z-index: 1;
+        }
+        
+        .content-section {
+            padding: 40px;
+        }
+        
+        .help-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            margin: 20px 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .help-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+        }
+        
+        .help-icon {
+            font-size: 2.5rem;
+            color: #17a2b8;
+            margin-bottom: 15px;
+        }
+        
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+        
+        .btn-custom {
+            padding: 12px 30px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            border-radius: 50px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 5px;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(45deg, #17a2b8, #20c997);
+            color: white;
+        }
+        
+        .btn-custom:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+        }
+        
+        .step-number {
+            background: linear-gradient(45deg, #17a2b8, #20c997);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+        
+        .step-item {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+        }
+        
+        .troubleshooting-item {
+            background: #f8f9fa;
+            border-left: 4px solid #dc3545;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="background-pattern"></div>
+    <div class="main-container">
+        <div class="header">
+            <a href="/" class="back-button btn btn-light">
+                <i class="fas fa-arrow-left"></i> ආපසු
+            </a>
+            <h1><i class="fas fa-question-circle"></i> උදව් සහ මාර්ගෝපදේශය</h1>
+            <p>පද්ධතිය නිසි ලෙස භාවිතා කරන්නේ කෙසේද?</p>
+        </div>
+        
+        <div class="content-section">
+            <div class="help-card">
+                <div class="help-icon">
+                    <i class="fas fa-play-circle"></i>
+                </div>
+                <h3>පද්ධතිය ආරම්භ කිරීම</h3>
+                <div class="step-item">
+                    <div class="step-number">1</div>
+                    <div>පරිගණකයේ කැමරාව සම්බන්ධ කරන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">2</div>
+                    <div>Terminal හෝ Command Prompt විවෘත කරන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">3</div>
+                    <div><code>python app.py</code> ටයිප් කර Enter ඔබන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">4</div>
+                    <div>වෙබ් බ්‍රව්සරයේ <code>http://localhost:5000</code> විවෘත කරන්න</div>
+                </div>
+            </div>
+            
+            <div class="help-card">
+                <div class="help-icon">
+                    <i class="fas fa-cog"></i>
+                </div>
+                <h3>SMS සැකසුම්</h3>
+                <div class="step-item">
+                    <div class="step-number">1</div>
+                    <div>Twilio වෙබ් අඩවියට යන්න: <a href="https://twilio.com" target="_blank">twilio.com</a></div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">2</div>
+                    <div>නොමිලේ ගිණුමක් සාදා ගන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">3</div>
+                    <div>Account SID සහ Auth Token ලබා ගන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">4</div>
+                    <div>දුරකථන අංකයක් මිල දී ගන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">5</div>
+                    <div>config.json ගොනුවේ අගයන් යාවත්කාලීන කරන්න</div>
+                </div>
+            </div>
+            
+            <div class="help-card">
+                <div class="help-icon">
+                    <i class="fas fa-video"></i>
+                </div>
+                <h3>කැමරා සැකසුම්</h3>
+                <div class="step-item">
+                    <div class="step-number">1</div>
+                    <div>කැමරාව වත්තේ සුදුසු ස්ථානයක ස්ථාපනය කරන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">2</div>
+                    <div>කැමරාවේ දෘෂ්ටි කෝණය වත්තේ ප්‍රධාන ප්‍රදේශය ආවරණය කරන ලෙස සකසන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">3</div>
+                    <div>රාත්‍රියේ ආලෝකය ප්‍රමාණවත් බව සහතික කරන්න</div>
+                </div>
+                <div class="step-item">
+                    <div class="step-number">4</div>
+                    <div>කැමරාවේ රේඛාව අඩු නොවන ලෙස සුරක්ෂිත කරන්න</div>
+                </div>
+            </div>
+            
+            <div class="help-card">
+                <div class="help-icon">
+                    <i class="fas fa-exclamation-triangle"></i>
+                </div>
+                <h3>දෝෂ නිරාකරණය</h3>
+                
+                <div class="troubleshooting-item">
+                    <strong>කැමරාව ක්‍රියා නොකරයි:</strong>
+                    <ul>
+                        <li>කැමරාව නිසි ලෙස සම්බන්ධ කර ඇත්දැයි පරීක්ෂා කරන්න</li>
+                        <li>වෙනත් යෙදුමක් කැමරාව භාවිතා කරමින් ඇත්දැයි පරීක්ෂා කරන්න</li>
+                        <li>කැමරා ධාවක (driver) යාවත්කාලීන කරන්න</li>
+                    </ul>
+                </div>
+                
+                <div class="troubleshooting-item">
+                    <strong>SMS යැවීමට නොහැකි:</strong>
+                    <ul>
+                        <li>Twilio අක්ෂර සංකේත නිවැරදිදැයි පරීක්ෂා කරන්න</li>
+                        <li>දුරකථන අංකය ජාත්‍යන්තර ආකාරයෙන් ඇතුළත් කර ඇත්දැයි පරීක්ෂා කරන්න</li>
+                        <li>Twilio ගිණුමේ මුදල් ඇතිදැයි පරීක්ෂා කරන්න</li>
+                    </ul>
+                </div>
+                
+                <div class="troubleshooting-item">
+                    <strong>ඇලම් ශබ්ද නොවේ:</strong>
+                    <ul>
+                        <li>ශබ්ද ගොනුව නිවැරදි ස්ථානයේ ඇත්දැයි පරීක්ෂා කරන්න</li>
+                        <li>ශබ්ද ගොනුවේ ආකෘතිය (WAV, MP3) සහය දක්වන ආකෘතියක්දැයි පරීක්ෂා කරන්න</li>
+                        <li>පරිගණකයේ ශබ්ද පරිමාව වැඩි කරන්න</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="help-card">
+                <div class="help-icon">
+                    <i class="fas fa-lightbulb"></i>
+                </div>
+                <h3>ප්‍රයෝජනවත් ඉඟි</h3>
+                <ul>
+                    <li><strong>දිනකට වරක්:</strong> පද්ධතිය නැවත ආරම්භ කරන්න</li>
+                    <li><strong>සතියකට වරක්:</strong> කැමරාවේ කණ්ණාඩි පිරිසිදු කරන්න</li>
+                    <li><strong>මාසකට වරක්:</strong> සිදුවීම් ගොනු පිරිසිදු කරන්න</li>
+                    <li><strong>අනාවරණය:</strong> අවම ප්‍රදේශය සහ රාමු ගණන ඔබේ වත්තට ගැලපෙන ලෙස සකසන්න</li>
+                    <li><strong>ආරක්ෂාව:</strong> පද්ධතියේ ප්‍රවේශය සුරක්ෂිත කරන්න</li>
+                </ul>
+            </div>
+            
+            <div class="text-center mt-5">
+                <a href="/" class="btn btn-custom btn-primary btn-lg">
+                    <i class="fas fa-home"></i> ප්‍රධාන පිටුවට යන්න
+                </a>
+                <a href="/admin" class="btn btn-custom btn-primary btn-lg">
+                    <i class="fas fa-cog"></i> වින්‍යාස පුවරුව
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

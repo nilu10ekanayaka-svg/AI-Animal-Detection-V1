@@ -1,0 +1,985 @@
+timestamp,event,description_sinhala,description_english
+2025-09-18 23:39:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:43:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:44:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:44:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:46:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:46:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:46:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:46:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 23s),Animals left the farm (Duration: 23s)
+2025-09-18 23:46:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:46:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-18 23:47:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:47:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:47:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:47:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-18 23:47:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:47:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:47:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:48:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 25s),Animals left the farm (Duration: 25s)
+2025-09-18 23:48:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:48:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-18 23:48:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:48:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-18 23:48:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:48:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-18 23:48:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:49:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-18 23:49:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:49:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:49:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:49:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 9s),Animals left the farm (Duration: 9s)
+2025-09-18 23:49:37,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:49:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:49:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:49:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-18 23:50:05,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:50:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-18 23:50:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:50:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 14s),Animals left the farm (Duration: 14s)
+2025-09-18 23:50:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:50:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-18 23:51:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:51:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 16s),Animals left the farm (Duration: 16s)
+2025-09-18 23:51:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:51:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 15s),Animals left the farm (Duration: 15s)
+2025-09-18 23:51:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:51:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:52:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:52:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-18 23:52:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:52:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:52:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:52:47,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-18 23:52:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:53:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 18s),Animals left the farm (Duration: 18s)
+2025-09-18 23:53:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:53:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 14s),Animals left the farm (Duration: 14s)
+2025-09-18 23:53:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:54:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 19s),Animals left the farm (Duration: 19s)
+2025-09-18 23:54:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:54:25,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-18 23:54:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:54:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-18 23:54:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:54:47,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:54:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:54:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:54:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:55:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 13s),Animals left the farm (Duration: 13s)
+2025-09-18 23:55:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:55:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-18 23:55:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:55:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:55:47,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:55:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-18 23:56:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:56:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 18s),Animals left the farm (Duration: 18s)
+2025-09-18 23:56:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:56:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 16s),Animals left the farm (Duration: 16s)
+2025-09-18 23:56:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:57:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 11s),Animals left the farm (Duration: 11s)
+2025-09-18 23:57:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:57:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:57:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:58:14,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 18s),Animals left the farm (Duration: 18s)
+2025-09-18 23:58:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:58:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-18 23:58:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:58:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:59:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-18 23:59:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:59:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-18 23:59:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-18 23:59:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-18 23:59:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:32,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:59:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-18 23:59:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:50,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-18 23:59:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-18 23:59:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-18 23:59:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 00:00:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:00:11,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:00:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-19 00:00:24,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:25,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:00:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:00:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:00:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:00:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:00:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:00:50,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:00:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:00:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:01:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:01:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:01:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:14,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:01:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:01:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-19 00:01:29,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:01:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:01:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:51,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:01:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:53,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:01:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:01:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:02:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:02:05,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:14,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-19 00:02:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:02:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:02:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:02:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:54,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:02:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:02:58,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:03:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:03:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:03:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:03:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:05:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:20,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:05:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:31,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:45,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:49,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:50,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:05:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:05:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:05:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:06:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:06:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:06:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:06:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:06:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:06:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:06:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:07:17,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:07:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:07:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:07:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:07:32,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:07:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:07:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:07:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 00:08:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:08:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:08:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:09:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 54s),Animals left the farm (Duration: 54s)
+2025-09-19 00:10:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:11:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:11:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:11:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 23s),Animals left the farm (Duration: 23s)
+2025-09-19 00:12:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:12:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:13:04,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:13:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 51s),Animals left the farm (Duration: 51s)
+2025-09-19 00:13:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:14:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:14:05,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:14:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:14:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:14:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:14:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:14:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:14:28,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:14:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-19 00:14:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 30s),Animals left the farm (Duration: 30s)
+2025-09-19 00:15:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:15:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:15:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:25,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:15:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:32,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:15:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:15:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:15:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:15:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:06,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 13s),Animals left the farm (Duration: 13s)
+2025-09-19 00:16:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:16:11,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:16:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:16:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:16:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:16:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:51,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:16:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:16:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:17:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:17:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:17:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:17:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:17:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:17:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:17:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:18:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 21s),Animals left the farm (Duration: 21s)
+2025-09-19 00:18:37,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:18:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:18:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:18:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-19 00:19:05,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:06,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:19:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:19:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:19:29,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:19:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:19:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:19:45,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:19:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:19:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:20:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:20:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:20:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:20:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:21:00,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:21:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:08,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:21:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:21:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:21:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:21:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:21:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:21:45,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:21:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:21:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:21:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:22:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:22:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:22:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:22:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:22:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-19 00:22:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:22:45,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:22:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:50,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:22:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:53,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:22:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:22:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:22:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:23:04,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:23:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:23:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:23:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:23:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:23:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:23:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:45,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:23:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:23:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:23:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:24:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:24:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:24:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:24:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:24:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:24:29,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:24:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:32,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:24:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:24:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:24:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:45,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:24:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:24:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:24:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:25:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:08,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:25:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:25:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:25:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:25:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:25:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:25:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:25:41,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:25:47,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:25:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:25:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:25:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:26:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:06,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:26:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:26:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:26:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:26:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:26:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 11s),Animals left the farm (Duration: 11s)
+2025-09-19 00:26:45,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:26:49,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:26:53,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:26:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:27:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-19 00:27:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:27:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 25s),Animals left the farm (Duration: 25s)
+2025-09-19 00:27:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:27:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:27:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:27:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:27:49,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:27:51,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:27:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:27:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:28:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:28:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 30s),Animals left the farm (Duration: 30s)
+2025-09-19 00:28:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:28:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:28:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:28:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:28:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:28:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:28:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:28:58,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:29:00,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:05,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:29:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:29:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:20,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:29:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:29:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:31,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:29:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:29:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:29:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:29:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:29:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 14s),Animals left the farm (Duration: 14s)
+2025-09-19 00:30:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:30:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:25,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:30:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:30:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:43,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:30:45,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:30:47,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:30:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-19 00:30:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:31:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:31:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:31:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:31:24,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:31:32,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:31:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:31:41,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:31:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:31:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:31:53,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 00:31:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:32:08,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-19 00:32:11,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:32:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:32:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:32:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:32:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:32:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:32:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:33:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:33:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:33:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:33:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:33:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:33:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 00:33:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:33:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:33:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:33:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:33:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:28,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:31,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:44:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:43,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:44:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:50,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:44:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:44:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:44:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:44:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:45:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:45:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-19 00:45:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:45:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:45:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:45:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 9s),Animals left the farm (Duration: 9s)
+2025-09-19 00:45:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:46:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 45s),Animals left the farm (Duration: 45s)
+2025-09-19 00:46:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:46:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:46:37,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:47:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 34s),Animals left the farm (Duration: 34s)
+2025-09-19 00:47:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:47:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:47:17,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:47:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 00:47:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:47:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 00:47:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:47:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:47:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:48:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 19s),Animals left the farm (Duration: 19s)
+2025-09-19 00:48:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:48:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 0s),Animals left the farm (Duration: 0s)
+2025-09-19 00:48:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:49:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:49:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:49:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:49:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:49:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:49:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:49:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:50:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:50:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:50:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-19 00:50:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:50:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:50:37,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:50:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:50:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:50:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:51:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:51:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:51:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:51:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 00:51:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:51:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:51:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:51:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:52:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:52:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 00:52:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:52:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:52:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:52:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:52:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:52:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 00:52:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:52:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 00:52:41,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 00:52:53,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 11s),Animals left the farm (Duration: 11s)
+2025-09-19 01:26:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:26:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 01:26:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:05,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 12s),Animals left the farm (Duration: 12s)
+2025-09-19 01:27:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:27:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:27:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:27:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:27:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:27:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:27:51,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:27:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:01,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:28:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:28:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:28:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:28:24,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 01:28:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:28:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:28:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:29:17,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:29:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 13s),Animals left the farm (Duration: 13s)
+2025-09-19 01:29:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:29:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:29:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:29:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:29:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:29:58,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:30:11,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:30:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:30:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:30:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:30:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:30:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:30:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:30:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:30:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:30:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:30:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:30:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:31:00,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:31:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:31:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:31:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:31:28,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:31:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:31:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:47,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:31:50,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:31:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:32:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:32:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:32:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:32:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:32:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:32:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 9s),Animals left the farm (Duration: 9s)
+2025-09-19 01:32:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:32:43,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:32:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:33:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:33:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:33:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:33:24,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:33:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:33:45,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:33:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:33:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:33:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:34:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:14,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:34:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:34:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:34:24,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:34:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:34:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:34:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:54,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 01:34:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:34:58,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:35:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:35:03,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:35:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:35:28,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:35:29,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:35:31,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:35:32,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:35:47,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 14s),Animals left the farm (Duration: 14s)
+2025-09-19 01:35:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:35:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:36:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:36:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:36:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:36:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:36:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:37:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 53s),Animals left the farm (Duration: 53s)
+2025-09-19 01:37:26,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:37:32,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 6s),Animals left the farm (Duration: 6s)
+2025-09-19 01:37:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:37:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-19 01:37:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:37:47,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:37:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-19 01:38:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:38:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:38:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:38:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:31,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:38:32,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:38:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:38:51,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-19 01:39:00,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:39:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:39:05,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:39:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:39:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:39:21,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:39:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:39:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:39:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:39:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:39:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:39:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:05,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:40:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:45,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:47,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:40:54,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:40:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:41:01,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 01:41:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:41:05,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:41:17,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:41:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:41:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:41:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:41:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:41:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:42:05,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:42:08,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:42:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:42:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:42:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:42:20,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:42:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:42:26,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:42:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:42:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:43:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:43:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:43:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:43:29,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:31,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:43:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:43:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:43:50,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:43:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:44:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:06,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:44:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:44:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:14,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:44:15,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:44:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:44:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:44:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:44:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:44:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:44:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:54,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:44:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:44:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:45:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:45:05,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:45:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:45:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:45:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:45:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:45:40,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:45:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:46:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:46:22,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:46:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:46:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:46:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:46:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:46:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:46:56,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:46:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:47:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:49:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:49:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:49:41,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:43,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:49:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:46,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:49:48,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:49,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:49:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:49:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:49:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:50:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:50:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:50:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:50:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:50:34,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:50:36,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:50:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:50:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:50:57,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:50:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:51:02,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:51:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 16s),Animals left the farm (Duration: 16s)
+2025-09-19 01:51:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:51:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 01:51:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:51:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:51:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:51:40,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:51:42,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:51:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:51:49,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:51:52,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:51:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:52:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:52:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:52:04,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:52:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:52:38,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 24s),Animals left the farm (Duration: 24s)
+2025-09-19 01:52:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:52:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:52:53,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:52:59,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 01:53:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:53:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:53:20,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:53:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:53:33,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:53:35,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:53:39,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:53:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:53:44,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:53:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:54:14,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:54:19,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 01:54:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:54:30,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 01:54:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:54:53,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 01:54:54,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:54:58,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 01:54:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:55:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-19 01:55:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:55:10,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 01:59:23,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:59:50,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 27s),Animals left the farm (Duration: 27s)
+2025-09-19 01:59:52,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 01:59:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 01:59:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:02,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:00:04,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:06,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:00:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:00:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:00:21,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:00:27,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:29,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:00:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:32,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:00:38,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:41,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:00:43,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:45,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:00:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:00:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:54,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:00:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:00:58,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:01:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:08,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 02:01:08,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:11,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:01:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:01:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:20,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:01:32,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:34,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:01:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:01:51,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:01:55,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 02:01:56,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 02:02:03,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:05,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:02:07,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:09,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:02:12,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-19 02:02:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:02:30,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:02:36,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:39,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:02:41,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:43,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:02:46,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:48,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:02:55,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:02:57,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:02:58,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:03:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:03:06,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:03:07,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:03:13,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:03:15,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-19 02:03:16,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:03:17,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 02:03:19,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 02:03:23,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)
+2025-09-19 02:03:24,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:21:09,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:21:18,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 8s),Animals left the farm (Duration: 8s)
+2025-09-19 07:21:22,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:21:33,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 11s),Animals left the farm (Duration: 11s)
+2025-09-19 07:32:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:32:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 13s),Animals left the farm (Duration: 13s)
+2025-09-19 07:32:25,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:32:27,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-19 07:32:31,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:32:37,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 5s),Animals left the farm (Duration: 5s)
+2025-09-19 07:33:11,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-19 07:33:16,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 4s),Animals left the farm (Duration: 4s)
+2025-09-19 07:33:18,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:52:01,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:52:12,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 10s),Animals left the farm (Duration: 10s)
+2025-09-20 11:52:17,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:52:24,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-20 11:52:35,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:52:42,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 7s),Animals left the farm (Duration: 7s)
+2025-09-20 11:52:59,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:53:00,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 1s),Animals left the farm (Duration: 1s)
+2025-09-20 11:53:10,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:53:13,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 2s),Animals left the farm (Duration: 2s)
+2025-09-20 11:54:41,ENTER,සතුන් වත්තට ඇතුළු වී ඇත,Animals entered the farm
+2025-09-20 11:54:44,EXIT,සතුන් වත්තෙන් පිටවී ගොස් ඇත (කාලය: 3s),Animals left the farm (Duration: 3s)

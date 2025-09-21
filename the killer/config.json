@@ -1,0 +1,13 @@
+{
+    "farmer_phone": "+94719563015",
+    "min_area": 1000,
+    "detection_frames": 10,
+    "detection_enabled": true,
+    "sms_enabled": true,
+    "alarm_file": "static/alert.mp3",
+    "logo_file": "static/logo.png",
+    "camera_index": 0,
+    "twilio_sid": "AK4vaWhaF9b57JG4Ndv9v19D5y7EkcQRwT",
+    "twilio_auth": "df22a9bca76020d1701af377e37972e5",
+    "twilio_from": "+18646629787"
+}
